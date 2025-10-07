@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xgdDTMBihRI=",
+  "dgSpecHash": "hjSVjrrKBsY=",
   "success": true,
   "projectFilePath": "/Users/navyamanichappidi/github/Restore/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/navyamanichappidi/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/navyamanichappidi/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/navyamanichappidi/.nuget/packages/microsoft.aspnetcore.cryptography.internal/9.0.9/microsoft.aspnetcore.cryptography.internal.9.0.9.nupkg.sha512",
     "/Users/navyamanichappidi/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/9.0.9/microsoft.aspnetcore.cryptography.keyderivation.9.0.9.nupkg.sha512",
