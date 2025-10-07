@@ -51,35 +51,8 @@ export default function Review({confirmationToken}:Props) {
 
         <Box mt={6} mx='auto'>
             <Divider />
-            <TableContainer>
-                <Table>
-                    <TableBody>
-                        {basket?.items.map((item) => (
-                            <TableRow key={item.productId} 
-                            sx={{borderBottom:'1px solid rgba(224,224,224,1)'}}>
-                                <TableCell sx={{px:4}}>
-                                    <Box display='flex' gap={3}
-                                     alignItems='center'>
-                                        <img src={item.pictureUrl}
-                                        alt={item.name}
-                                        style={{width:40, height:40}}
-                                            />
-                                       <Typography>
-                                        {item.name}
-                                        </Typography>     
-                                    </Box>
-                                </TableCell>
-                                <TableCell align="center" sx={{p: 4}}>
-                                    x {item.quantity}
-                                </TableCell>
-                                <TableCell align="right" sx={{p: 4}}>
-                                    {currencyFormart(item.price)}
-                                </TableCell>
-                            </TableRow>
-                        ))}
-                    </TableBody>
-                </Table>
-            </TableContainer>
+           
+           
 
 
         </Box>
