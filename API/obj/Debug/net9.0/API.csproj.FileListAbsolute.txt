@@ -160,3 +160,4 @@
 /Users/navyamanichappidi/github/Restore/API/bin/Debug/net9.0/Stripe.net.dll
 /Users/navyamanichappidi/github/Restore/API/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
 /Users/navyamanichappidi/github/Restore/API/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/navyamanichappidi/github/Restore/API/obj/Debug/net9.0/API.sourcelink.json
